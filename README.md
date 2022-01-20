@@ -2,13 +2,14 @@
 
 ### Screenshot
 
-![](/screenshots/screenshot.jpg)
+![](/screenshots/screenshot.png)
 
 ### Built with
 
 - React
 - Material-ui
 - Axios
+- google-map-react
 - GoogleMaps API
 - Travel Advisor API
 - Open Weather Map API

@@ -21,7 +21,7 @@ const List = ({places, type, setType, rating, setRating, childClicked, isLoading
     
       <div className={classes.container}>
         <Typography variant='h4'>
-        Restaurants, Hotels & Attractions around you
+        Restaurants, Hotels & Attractions
         </Typography>
         {isLoading ? (
           <div className={classes.loading}>
